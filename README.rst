@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgpcimino%2Fpycsw.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgpcimino%2Fpycsw?ref=badge_shield)
+
 pycsw README
 ============
 
@@ -21,3 +23,7 @@ pycsw is Open Source, released under an MIT license, and runs on all major
 platforms (Windows, Linux, Mac OS X).
 
 Please read the docs at https://pycsw.org/docs for more information.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgpcimino%2Fpycsw.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgpcimino%2Fpycsw?ref=badge_large)
